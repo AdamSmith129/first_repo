@@ -3,3 +3,4 @@ jim
 joe
 jean
 jack 
+józsika elment vadászni
